@@ -1,2 +1,2 @@
 # demo_git
-Un test sur git
+Une demo de git qui avance mon lapin
